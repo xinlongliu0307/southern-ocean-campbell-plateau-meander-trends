@@ -7,7 +7,7 @@ by Xinlong Liu, Amelie Meyer, and Christopher C. Chapman
 
 ---
 
-## Repository Structure  
+## Supporting Figures for Meander Analysis
 
 ### 1. Meander Trends Analysis  
 This section presents the statistical analysis of the meander’s characteristics—latitude position, width, and geostrophic current speed—using both raw monthly time series and smoothed rolling-year means. It includes:  
